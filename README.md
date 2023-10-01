@@ -14,4 +14,5 @@ Before using this script, ensure you have the following:
 ## Usage
 1. Clone this repository to your local machine.
 
+target_url = "http://example.com"  # Replace with your target URL
 ```
