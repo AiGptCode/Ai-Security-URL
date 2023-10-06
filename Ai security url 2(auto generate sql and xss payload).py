@@ -4,7 +4,7 @@ import requests
 import urllib.parse
 import random
 import string
-
+ 
 # Configuration settings (customize as needed)
 target_url = "http://example.com"  # Replace with your target URL
 zap_api_key = "your_api_key"  # Replace with your actual ZAP API key
