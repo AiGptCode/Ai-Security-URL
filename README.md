@@ -1,5 +1,5 @@
 # Ai Security URL Testing 
-  
+
 ## Generate auto payload for SQL and XSS 
 
 ## Introduction
