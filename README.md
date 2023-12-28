@@ -4,7 +4,7 @@
  
 ## Introduction
 This Python script is designed for automated security testing and vulnerability exploitation on web applications. It integrates with OWASP ZAP (Zed Attack Proxy) for vulnerability scanning and includes functions to exploit common web application vulnerabilities such as SQL Injection, Cross-Site Scripting (XSS), Server-Side Request Forgery (SSRF), and Path Traversal.
-
+ 
 ## Prerequisites
 Before using this script, ensure you have the following:
 
