@@ -5,7 +5,7 @@
 ## Automated Payload Generation for SQL and XSS 🚀
 
 ### Introduction
-
+ 
 Unleash the power of security testing with this Python script! 🐍 Designed for automated vulnerability testing on web applications, it seamlessly integrates with OWASP ZAP (Zed Attack Proxy). This script isn't just a tool; it's your ally in the ongoing battle against cyber threats. Defend your web applications with confidence, exploit vulnerabilities, and fortify your digital fortress.
 
 ### Prerequisites
