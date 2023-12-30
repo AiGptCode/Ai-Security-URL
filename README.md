@@ -8,7 +8,8 @@
  
 Unleash the power of security testing with this Python script! 🐍 Designed for automated vulnerability testing on web applications, it seamlessly integrates with OWASP ZAP (Zed Attack Proxy). This script isn't just a tool; it's your ally in the ongoing battle against cyber threats. Defend your web applications with confidence, exploit vulnerabilities, and fortify your digital fortress.
 
-AUTO Generate Payload and Exploit(SQL XSS SSRF & Path travel)
+### AUTO Generate Payload and Exploit(SQL XSS SSRF & Path travel)
+
 ### Prerequisites
 
 Before diving into the action, ensure your setup is ready:
